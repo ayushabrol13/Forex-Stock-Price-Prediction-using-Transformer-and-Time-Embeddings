@@ -33,3 +33,7 @@ The dataset we have used is that of IBM stock price history. The dataset starts 
 ![final Metrics](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/final_model_metrics.png)
 
 ![final results](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/final_preds.png)
+
+## Conclusion
+
+Deep neural networks (DNNs) are a type of machine learning algorithm that can be used to predict stock market prices. DNNsconsist of multiple layers of interconnected nodes, and they are trained using large amounts of historical data to make predictionsabout future stock market prices. Recently, transformer-based DNNs have gained popularity in the field of natural languageprocessing over RNNs, LSTMs and GRUs because of their attention mechanisms allowing them to have large reference windows,they have also been applied to other domains, including stock market price prediction. We have also explored stock price predictionusing RNNs and LSTMs, however, transformers superseded them in the prediction task and hence our report sticks strictly towardsthe analysis of stock price prediction using Transformers.
