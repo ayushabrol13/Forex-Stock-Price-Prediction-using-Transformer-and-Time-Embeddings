@@ -34,7 +34,7 @@ The dataset we have used is that of IBM stock price history. The dataset starts 
 
 ![final results](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/final_preds.png)
 
-## Video Demonstration 
+## Video Demonstration
 
 [Video Demo](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings/blob/master/Video%20Demo.mp4)
 
@@ -44,8 +44,8 @@ Deep neural networks (DNNs) are a type of machine learning algorithm that can be
 
 ## Contributors
 
-    [Ayush Abrol](https://github.com/ayushabrol13/)
+[Ayush Abrol](https://github.com/ayushabrol13/)
 
-    [Aryan Tiwari](https://github.com/AryanTiwarii)
+[Aryan Tiwari](https://github.com/AryanTiwarii)
 
-    [Neehal Bajaj](https://github.com/nbj18)
+[Neehal Bajaj](https://github.com/nbj18)
