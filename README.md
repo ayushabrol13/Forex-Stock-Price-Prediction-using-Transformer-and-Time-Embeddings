@@ -20,4 +20,16 @@ The dataset we have used is that of IBM stock price history. The dataset starts 
 
 ## Model Architecture
 
-![architecture]()
+![architecture](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/architecture.png)
+
+## Initial Metrics and results
+
+![initial Metrics](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/initial_model_metrics.png)
+
+![initial results](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/initial_preds.png)
+
+## Final Metrics and results
+
+![final Metrics](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/final_model_metrics.png)
+
+![final results](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/final_preds.png)
