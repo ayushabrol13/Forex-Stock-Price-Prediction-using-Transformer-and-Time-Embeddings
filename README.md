@@ -1,6 +1,6 @@
 # Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings
 
-This repository contains the code for the Project "Forex Stock Price Prediction using Transformers and Time Embeddings" written in Tensorflow 2.9.1
+This repository contains the code for the Project "Forex Stock Price Prediction using Transformers and Time Embeddings" written in Tensorflow 2.9.1.
 
 ## About the Project
 
@@ -8,7 +8,7 @@ The foreign exchange (Forex) market is a global decentralized market for the tra
 
 ## Dataset Description and Preprocessing
 
-The dataset we have used is that of IBM stock price history. The dataset starts from 1962-02-16 and ends on the date 2020-01-31.The data contains the Open, High, Low, Close as well as the trading Volume (OHLCV) of the IBM stock for every day between the aforementioned dates, leading to a total size of 14588 entries.
+The dataset we have used is that of IBM stock price history. The dataset starts from 1962-02-16 and ends on the date 2020-01-31. The data contains the Open, High, Low, Close as well as the trading Volume (OHLCV) of the IBM stock for every day between the aforementioned dates, leading to a total size of 14588 entries.
 
 ![IBM](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/IBM_Close_Price.png)
 
